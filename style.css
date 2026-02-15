@@ -1,0 +1,334 @@
+
+
+*{
+       margin: 0%;
+       padding: 0%;
+}
+.navbar{
+       display: flex;
+       padding: 10px;
+       justify-content: space-between;
+       border-bottom: solid black 1px;
+       align-items: center;
+       
+}
+.one{
+       color: blue;
+}
+ 
+.s2{
+       padding: 10px;
+       border: solid black 1px;
+       border-radius: 30px;
+       width: 60%;
+       align-items: center;
+
+
+}
+
+input{
+       border: none;
+       font: size 17px;
+       
+}
+input:focus{
+       outline: none;
+}
+
+.s3{
+       display: flex;
+       gap: 60px;
+
+}
+
+.s9{
+    border-bottom: solid black 1px;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+
+     
+} 
+.s9 p{
+       background-color: blue;
+       color: white;
+       padding: 20px;
+       border-radius: 30px;
+}
+.sale-image{
+       margin-top: 1px;
+}
+.sale-image img{
+       width: 100%;
+}
+
+.H2{
+       margin: 10PX;
+}
+.x2{
+       display: flex;
+       flex-wrap: wrap;
+       gap: 10px;
+       margin: 10px;
+       
+}
+.x2 p{
+       padding: 10px;
+       border : solid black;
+       flex-grow: 1;
+       flex-basis: 25%;
+       
+       
+}
+
+.box{
+       margin: 5px;
+       background-color:red;
+       color: blue;
+       border-radius: 30px;
+       height:200px;
+       width: 170px;
+}
+
+.box p{
+       padding: 5px;
+       padding-right: 30px;
+       margin: 17px;
+       font-size: 17px;
+
+
+}
+
+.s12{
+       background-color: red;
+       color: blue;
+       border-radius: 30px;
+       width: 70px;
+       height: 70px;
+}
+       
+.coursecontainer{
+       display:flex ;
+       justify-content: space-between;
+       width: 20%;
+       flex-wrap: wrap;
+}
+
+.card img{
+       border-radius: 30px;
+       width: 100%;
+}
+
+
+
+.footer{
+       display: flex;
+       gap: 30px;
+       
+}
+
+.r5{
+       display: flex;
+       margin: 10px;
+       align-items: center;
+       justify-content: space-between;
+}
+.f5{
+       background-color: black;
+       color: white;
+       padding: 30px;
+       
+}
+
+.section p{
+       margin: 10px;
+}
+.g9 p{
+       margin: 10px;
+
+}
+.f2 p{
+       margin: 10px;
+}
+
+.card{
+       width: 20%;
+
+}
+.card img{
+       width: 100%;
+}
+.section{
+       margin: 10px;
+}
+.recommend{
+       display: flex;
+       justify-content: space-between;
+       margin: 10px;
+}
+.course{
+       display: flex;
+       justify-content: space-between;
+       flex-wrap: wrap;
+       margin: 10px;
+}
+
+
+
+
+
+
+</style>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
